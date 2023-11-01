@@ -7,6 +7,8 @@ import java.util.Date;
 
 import javax.persistence.*;
 
+
+// first commit branch seif
 @Entity
 @ToString
 public class Contrat implements Serializable{
